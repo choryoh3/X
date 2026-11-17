@@ -1,0 +1,13 @@
+.env
+__pycache__/
+*.pyc
+videos/*
+subtitles/*
+transcripts/*
+outputs/*
+state/*
+!videos/.gitkeep
+!subtitles/.gitkeep
+!transcripts/.gitkeep
+!outputs/.gitkeep
+!state/.gitkeep
